@@ -1,7 +1,7 @@
 # algorithm
 
 ### Требования
-для работы приложения необходим [Node.js][Node]
+для работы приложения необходим [Node.js](https://nodejs.org)
 
 ### Запуск
 >**cd /algorithm**  
